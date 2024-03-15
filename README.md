@@ -1,2 +1,2 @@
 # Mine2D
- Minecraft-like 2D game using PyGame
+ Unfinished Minecraft-like 2D game writted to learn PyGame
